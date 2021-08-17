@@ -1,0 +1,44 @@
+body{
+    background: url('../../assets/img/background/fondo-azul-side-2.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.auth{
+    margin-top:4.5em;
+    margin-bottom:4.5em;
+    color: lightslategray;
+    margin-left: 1em;
+    margin-right: 1em;
+    
+}
+.auth-button{
+    margin-top: .5em;
+    background-color: #062045;
+    color:#fff;
+    padding-left: 50px;
+    padding-right: 50px;
+    transition: padding-left 1s, padding-right 1s;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+}
+.button-log{
+    text-align:center;
+}
+.auth-button:hover{
+    background-color: #062045;
+    color:#fff;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.foot{
+    padding-top:5em;
+    color:gray;
+    text-align:center;
+}
+.form-card{
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+}
+img{
+    margin-left: 30%;
+    margin-top:1em;
+}
